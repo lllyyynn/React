@@ -1,0 +1,28 @@
+/* .artist-item {
+    display: inline-block;
+    height: 180px;
+    border: 2px solid var(--color-primary);
+    background-color: var(--color-secondary);
+    width: 120px;
+    margin-left: 10%;
+    margin-top: 10px;
+    overflow: hidden;
+    text-align: center;
+} */
+
+.artist-item {
+    height: 180px;
+    border: 2px solid var(--color-primary);
+    background-color: var(--color-secondary);
+    width: 120px;
+    overflow: hidden;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: var(--height-header);
+    margin-right: var(--height-header);
+   }
+
+
+.artist-item:hover {
+    box-shadow:var(--box-shadow);
+}

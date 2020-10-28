@@ -1,0 +1,14 @@
+.header-list {
+    background-color: lightblue;
+    height: 40px;
+    text-align: left;
+    display: block;
+    justify-content: left;
+    align-items: center;
+}
+
+.navbar {
+    display: flex;
+    color: white;
+
+}

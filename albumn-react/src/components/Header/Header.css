@@ -1,0 +1,23 @@
+.page-header {
+    background-color: var(--color-primary);
+    height: var(--height-header);
+    position: fixed;
+    width: 100%;
+    
+} 
+
+.input-container {
+    text-align: center;
+} 
+
+.input-filed {
+    width: 400px;
+    border-radius: 3% / 60%;
+    outline: none;
+    border: none;
+    height: 23px; 
+    font-size: large;
+    margin-top: 12px;
+    text-align: center;
+
+}
